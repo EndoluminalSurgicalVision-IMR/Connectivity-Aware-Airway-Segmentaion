@@ -26,4 +26,14 @@ You can download our pretrained checkpoint from [here](https://drive.google.com/
 
 The implementation of two modules CAS and LSD is modularized in the ```networks/CAS```,```networks/LSD```.
 
-
+## 📝 Citation
+If you find this repository or our paper useful, please consider citing our paper:
+```
+@article{zhang2023towards,
+  title={Towards Connectivity-Aware Pulmonary Airway Segmentation},
+  author={Zhang, Minghui and Gu, Yun},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2023},
+  publisher={IEEE}
+}
+```
