@@ -9,7 +9,7 @@
 
 
 ## News
-🏆🥈🥉 The proposed model won several prizes in different tracks of [**MICCAI 2024 TopCoW Challenge**](https://topcow24.grand-challenge.org/). We uploaded the solution in the ```challenge_solution/TopCow24_Challenge```.
+[2024/10/23] 🏆🥈🥉 The proposed model won several prizes in different tracks of [**MICCAI 2024 TopCoW Challenge**](https://topcow24.grand-challenge.org/). We uploaded the solution in the ```challenge_solution/TopCow24_Challenge```.
 
 ## Introduction
 Detailed pulmonary airway segmentation is a clinically important task for endobronchial intervention and treatment of peripheral pulmonary lesions. 
