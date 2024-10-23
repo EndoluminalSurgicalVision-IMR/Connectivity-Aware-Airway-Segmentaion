@@ -7,6 +7,10 @@
 
 >> Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, Shanghai, China
 
+
+## News
+
+
 ## Introduction
 Detailed pulmonary airway segmentation is a clinically important task for endobronchial intervention and treatment of peripheral pulmonary lesions. 
 Breakage of small bronchi distals cannot be effectively eliminated in the prediction results of CNNs, which is detrimental to use as a reference for bronchoscopic-assisted surgery. 
