@@ -11,6 +11,9 @@
 ## News
 [2024/10/23] 🏆🥈🥉 The proposed model won several prizes in different tracks of [**MICCAI 2024 TopCoW Challenge**](https://topcow24.grand-challenge.org/). We uploaded the solution in the ```challenge_solution/TopCow24_Challenge```.
 
+[2023/10/12] 🥈 The proposed model won the first Runner-up in the [**MICCAI 2023 AIIB Challenge**](https://codalab.lisn.upsaclay.fr/competitions/13238).
+
+
 ## Introduction
 Detailed pulmonary airway segmentation is a clinically important task for endobronchial intervention and treatment of peripheral pulmonary lesions. 
 Breakage of small bronchi distals cannot be effectively eliminated in the prediction results of CNNs, which is detrimental to use as a reference for bronchoscopic-assisted surgery. 
