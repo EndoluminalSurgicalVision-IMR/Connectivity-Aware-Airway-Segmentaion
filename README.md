@@ -11,7 +11,7 @@
 ## News
 [2024/10/23] 🏆🥈🥉 The proposed model won several prizes in different tracks of [**MICCAI 2024 TopCoW Challenge**](https://topcow24.grand-challenge.org/). We uploaded the solution in the ```challenge_solution/TopCow24_Challenge```.
 
-[2023/10/12] 🥈 The proposed model won the first Runner-up in the [**MICCAI 2023 AIIB Challenge**](https://codalab.lisn.upsaclay.fr/competitions/13238).
+[2023/10/12] 🥈 The proposed model won the first Runner-up in the [**MICCAI 2023 AIIB Challenge**](https://codalab.lisn.upsaclay.fr/competitions/13238). We will upload the solution
 
 
 ## Introduction
