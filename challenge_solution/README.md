@@ -4,5 +4,7 @@
 
 - [x] MICCAI 2024 TopCow Challenge
 
+- [x] MICCAI 2024 Aorta Challenge
+
 
 
